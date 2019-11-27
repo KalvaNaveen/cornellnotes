@@ -28,7 +28,9 @@ class SidebarComponent extends React.Component {
           </Button>
           {this.state.addingNote ? (
             <div>
+              <form>
               <input
+              required
                 type="text"
                 className={classes.newNoteInput}
                 placeholder="Enter note title"
@@ -40,6 +42,7 @@ class SidebarComponent extends React.Component {
               >
                 Submit Note
               </Button>
+              </form>
             </div>
           ) : null}
           <List>
