@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d644d54c.chunk.css",
-    "main.js": "/static/js/main.7136ba57.chunk.js",
-    "main.js.map": "/static/js/main.7136ba57.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7c33a759.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7c33a759.js.map",
-    "static/js/2.03f6862a.chunk.js": "/static/js/2.03f6862a.chunk.js",
-    "static/js/2.03f6862a.chunk.js.map": "/static/js/2.03f6862a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5d0fff6e331b3860219005a72e49a7a3.js": "/precache-manifest.5d0fff6e331b3860219005a72e49a7a3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d644d54c.chunk.css.map": "/static/css/main.d644d54c.chunk.css.map"
+    "main.css": "/cornellnotes/static/css/main.d644d54c.chunk.css",
+    "main.js": "/cornellnotes/static/js/main.6ffcac6f.chunk.js",
+    "main.js.map": "/cornellnotes/static/js/main.6ffcac6f.chunk.js.map",
+    "runtime-main.js": "/cornellnotes/static/js/runtime-main.e08b7f1a.js",
+    "runtime-main.js.map": "/cornellnotes/static/js/runtime-main.e08b7f1a.js.map",
+    "static/js/2.5851b968.chunk.js": "/cornellnotes/static/js/2.5851b968.chunk.js",
+    "static/js/2.5851b968.chunk.js.map": "/cornellnotes/static/js/2.5851b968.chunk.js.map",
+    "index.html": "/cornellnotes/index.html",
+    "precache-manifest.4f5207b77b9322d9373b66ba33c63d39.js": "/cornellnotes/precache-manifest.4f5207b77b9322d9373b66ba33c63d39.js",
+    "service-worker.js": "/cornellnotes/service-worker.js",
+    "static/css/main.d644d54c.chunk.css.map": "/cornellnotes/static/css/main.d644d54c.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c33a759.js",
-    "static/js/2.03f6862a.chunk.js",
+    "static/js/runtime-main.e08b7f1a.js",
+    "static/js/2.5851b968.chunk.js",
     "static/css/main.d644d54c.chunk.css",
-    "static/js/main.7136ba57.chunk.js"
+    "static/js/main.6ffcac6f.chunk.js"
   ]
 }
